@@ -115,4 +115,22 @@ public class Time {
             setHour(0);
         }
     }
+
+    public void addMitute() {
+        setMinute(getMinute() + 1);
+        if (getMinute() > 59) {
+            setMinute(0);
+            setHour(getHour() + 1);
+        }
+        if (getHour() > 23) {
+            setHour(0);
+        }
+    }
+
+    public void addHour() {
+        setHour(getHour() + 1);
+        if (getHour() > 23) {
+            setHour(0);
+        }
+    }
  } // end class Time2
