@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="767c64fe-60cb-4f3d-9779-f09c90345cf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Date/Date2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Date/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TraficLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TraficLightTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapitre8/com/company/Tick/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapitre8/com/company/Tick/Time.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapitre8/com/company/Tick/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapitre8/com/company/Tick/TimeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Tick/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tick/Time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Tick/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tick/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Date/Date2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Date/Date2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +24,9 @@
   <component name="ProjectId" id="1UjebKCF6CU2WqTMqQYjU7wVMjc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

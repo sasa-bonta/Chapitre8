@@ -69,4 +69,19 @@ public class Date2 {
         }
 
     }
+
+    public void nextMonth() {
+            setMonth(getMonth() + 1);
+        if (getMonth() > 12) {
+            setYear(getYear() + 1);
+            setMonth(1);
+        }
+            setDay(1);
+    }
+
+    public void nextYear() {
+            setYear(getYear() + 1);
+            setMonth(1);
+            setDay(1);
+    }
 }
